@@ -1,4 +1,4 @@
-require_relative '../spec_helper'
+require 'spec_helper'
 
 feature 'Form' do
   scenario 'fills out a form' do
